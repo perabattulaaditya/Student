@@ -1,0 +1,17 @@
+Project Details
+
+Front-End :
+
+    1. BootStrap
+    2. Angularjs
+    3. HTML
+    4. CSS
+    
+ 
+ Back-End(Middle Layer)
+ 
+    1. Tomcat
+    2. Servlets
+    3. SOAP Services
+    4. MySQL-JDBC connector
+    5. MAVEN
